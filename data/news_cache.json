@@ -1,0 +1,225 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "英伟达市值突破4万亿美元，AI产业格局重构",
+      "summary": "英伟达市值突破4万亿美元，成为全球首家达此里程碑的科技公司。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=Mzg5MjAzOTMwNQ==&mid=2247484869&idx=1&sn=ec540dfaf840e869d140556bed5ba058",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 1
+    },
+    {
+      "id": "2",
+      "title": "美国商务部撤回拟议的AI芯片出口管制新规",
+      "summary": "美国商务部撤回2025年提出的《人工智能扩散规则》的“临时最终规则”。",
+      "source": "新浪财经",
+      "sourceUrl": "http://finance.sina.com.cn/jjxw/2026-03-14/doc-inhqxwhp3349167.shtml",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "3",
+      "title": "深圳发布具身智能机器人技术创新与产业发展行动计划",
+      "summary": "深圳市计划新增培育估值过百亿企业10家以上，营收超十亿企业20家以上。",
+      "source": "深圳市科技创新局",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzAxMDg3NTE2OQ==&mid=2653744904&idx=1&sn=b70564685842cb3721ca1abc5dd8af5c",
+      "tier": 1,
+      "category": "机器人",
+      "publishedAt": "2026-03-03",
+      "relevance": 0.8
+    },
+    {
+      "id": "4",
+      "title": "OpenAI权力交接，法裔女CEO执掌大权统管3000人",
+      "summary": "OpenAI完成权力架构调整，新任应用CEO Fidji Simo将管理约3000名员工。",
+      "source": "FinAI",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzIwMzA3OTQ3Mg==&mid=2650282535&idx=4&sn=dbcf417b35f7d3331fcb0a0172a4f74d",
+      "tier": 2,
+      "category": "大模型",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "5",
+      "title": "特斯拉Optimus V3首曝：手部拟真度惊人",
+      "summary": "特斯拉第三代人形机器人Optimus V3手部设计接近人类，计划2026年量产5万台。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzUyMzM3NzMxOA==&mid=2247545410&idx=1&sn=d6fcfe35a78e044a7f42a35360fdad90",
+      "tier": 2,
+      "category": "人形机器人",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "6",
+      "title": "海光信息拟1159.67亿元换股吸收合并中科曙光",
+      "summary": "海光信息拟换股吸收合并中科曙光，打造设计至整机全链条。",
+      "source": "财新网",
+      "sourceUrl": "http://www.caixin.com/2023-10-18/102118118.html?originReferrer=kimi",
+      "tier": 1,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.8
+    },
+    {
+      "id": "7",
+      "title": "美国将出口管制扩大到更多的中国芯片设计公司",
+      "summary": "美国商务部将中国AI芯片公司壁仞、摩尔线程等13个中国公司纳入“实体清单”。",
+      "source": "财新网",
+      "sourceUrl": "https://database.caixin.com/2022-12-17/101978975.html?originReferrer=kimi",
+      "tier": 1,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "8",
+      "title": "寒武纪在北京成立智算科技公司 含集成电路设计业务",
+      "summary": "寒武纪智算科技（北京）有限公司成立，由寒武纪全资持股。",
+      "source": "DRAMX",
+      "sourceUrl": "https://www.dramx.com/KeywordPost/2066.html",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.7
+    },
+    {
+      "id": "9",
+      "title": "英伟达已通知部分零部件供应商暂停H20人工智能芯片的生产",
+      "summary": "英伟达通知美国安靠科技停止H20芯片的生产，并同步告知了韩国三星电子。",
+      "source": "C114",
+      "sourceUrl": "https://www.c114.com.cn/news/16/a1295542.html",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.8
+    },
+    {
+      "id": "10",
+      "title": "美国将继续对中国芯片实施限制，拒绝英伟达减免要求",
+      "summary": "美国白宫人工智能高级政策顾问表示将继续限制先进人工智能技术进入中国。",
+      "source": "C114",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=Mzk0MjAyMTMwOA==&mid=2247487765&idx=2&sn=f646dc55e2e36412f929a1e9ffaeadaa",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "11",
+      "title": "马斯克成立新公司「巨硬」：用AI把微软产品重做一遍",
+      "summary": "埃隆·马斯克宣布成立新公司“巨硬”，目标是用人工智能全面模仿并替代微软的软件产品。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzUyMzM3NzMxOA==&mid=2247545410&idx=1&sn=d6fcfe35a78e044a7f42a35360fdad90",
+      "tier": 2,
+      "category": "AI应用",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.7
+    },
+    {
+      "id": "12",
+      "title": "中国AI军团开源生态崛起",
+      "summary": "上海AI实验室开源书生·万象3.5大模型，腾讯发布全球首个开源超长程世界模型HunyuanWorld-Voyager。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzUyMzM3NzMxOA==&mid=2247545410&idx=1&sn=d6fcfe35a78e044a7f42a35360fdad90",
+      "tier": 2,
+      "category": "大模型",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "13",
+      "title": "OpenClaw爆火引发监管安全警示",
+      "summary": "OpenClaw作为开源AI智能体引爆全民热潮，监管层密集发布四道安全警示。",
+      "source": "新浪科技",
+      "sourceUrl": "https://k.sina.com.cn/article_7857201856_1d45362c0019037r46.html?from=tech",
+      "tier": 2,
+      "category": "AI应用",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.8
+    },
+    {
+      "id": "14",
+      "title": "全球首届人形机器人半程马拉松赛在北京亦庄举行",
+      "summary": "20支队伍参赛，冠军“天工Ultra”以7分37秒/公里配速完赛。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzIwMzA3OTQ3Mg==&mid=2650282535&idx=4&sn=dbcf417b35f7d3331fcb0a0172a4f74d",
+      "tier": 2,
+      "category": "人形机器人",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "15",
+      "title": "中国科学院团队宣布全球最小侵入式脑机接口完成首例临床试验",
+      "summary": "四肢截肢患者通过三周训练，即可用意念操控机械臂完成下棋、赛车等精细动作。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzU0NDk2ODg1Mg==&mid=2247496390&idx=1&sn=b53a5db8cb18d377535c642a6a617565",
+      "tier": 2,
+      "category": "具身智能",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.8
+    },
+    {
+      "id": "16",
+      "title": "谷歌以24亿美元获得Windsurf核心团队代码生成大模型技术授权",
+      "summary": "谷歌以24亿美元“截胡”OpenAI旗下Windsurf核心团队。",
+      "source": "智能浪潮",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=Mzg5MjAzOTMwNQ==&mid=2247484869&idx=1&sn=ec540dfaf840e869d140556bed5ba058",
+      "tier": 2,
+      "category": "大模型",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "17",
+      "title": "美国政府通知英伟达限制对中国出口高性能芯片",
+      "summary": "英伟达接到美国政府通知，最高性能的两款芯片将无法向中国出口。",
+      "source": "财新网",
+      "sourceUrl": "https://database.caixin.com/2022-12-17/101978975.html?originReferrer=kimi",
+      "tier": 1,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.8
+    },
+    {
+      "id": "18",
+      "title": "海光CPU大量应用于电信、金融、互联网、教育、交通等行业",
+      "summary": "海光CPU在多个行业中得到应用，尤其在电信行业表现突出。",
+      "source": "财新网",
+      "sourceUrl": "https://database.caixin.com/2022-12-17/101978975.html?originReferrer=kimi",
+      "tier": 1,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.7
+    },
+    {
+      "id": "19",
+      "title": "美国将对中国的芯片封锁升级，重点照顾华为",
+      "summary": "美国商务部宣布从5月15日开始升级对半导体技术的出口管制措施。",
+      "source": "C114",
+      "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MjM5NjA0MDI0Mg==&mid=2652460485&idx=4&sn=eadd6d8e247ef35c66256996783a6fab",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-14",
+      "relevance": 0.9
+    },
+    {
+      "id": "20",
+      "title": "寒武纪发布2025年年报：营收净利均大幅增长实现首次年度盈利",
+      "summary": "寒武纪2025年年报披露公司全年经营业绩，核心财务指标均实现爆发式增长。",
+      "source": "DRAMX",
+      "sourceUrl": "https://www.dramx.com/KeywordPost/2066.html",
+      "tier": 2,
+      "category": "AI芯片",
+      "publishedAt": "2026-03-13",
+      "relevance": 0.8
+    }
+  ],
+  "timestamp": 1773483148812
+}
