@@ -110,7 +110,6 @@ ${newsContext}
       webSearch: true,
       jsonMode: true,
       maxTokens: 8192,
-      temperature: 0.3,
     });
 
     const parsed = JSON.parse(result);

@@ -75,7 +75,6 @@ relevance: 0-1之间，表示与AI/机器人投资的相关性
       webSearch: true,
       jsonMode: true,
       maxTokens: 8192,
-      temperature: 0.3,
     });
 
     const parsed = JSON.parse(result);
